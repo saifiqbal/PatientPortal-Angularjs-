@@ -1,0 +1,36 @@
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\roslyn\csc.exe
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\roslyn\vbc.exe
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\UI.dll.config
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\UI.dll
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\bin\UI.pdb
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\obj\Debug\UI.dll
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\obj\Debug\UI.pdb
+C:\Users\Saif10p\documents\visual studio 2015\Projects\DemoPatienPortal\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\roslyn\csc.exe
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\roslyn\vbc.exe
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\roslyn\VBCSCompiler.exe
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\UI.dll.config
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\UI.dll
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\bin\UI.pdb
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\obj\Debug\UI.dll
+D:\Projects\PatientPortal\PatientPortal-Angularjs-\UI\obj\Debug\UI.pdb
